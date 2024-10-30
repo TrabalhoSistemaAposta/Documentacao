@@ -1,0 +1,142 @@
+BetFriends - Apostas Sociais com Créditos Virtuais
+
+1. Introdução
+
+* Objetivo Geral do Projeto
+O objetivo do BetFriends é desenvolver uma plataforma de apostas sociais com foco em
+competição saudável e entretenimento, permitindo que os usuários apostem em eventos
+variados utilizando apenas créditos virtuais. A ausência de dinheiro real proporciona um
+ambiente seguro e acessível, promovendo a interação social e o engajamento por meio de
+sistemas de gamificação como rankings, troféus e desafios.
+
+* Objetivos Específicos
+Criar um sistema de pontuação e conquistas, que incentive o usuário a participar e a se
+engajar com a plataforma.
+Desenvolver um sistema de apostas intuitivo, que abranja tanto eventos populares
+(esportivos) quanto eventos customizáveis entre amigos.
+Estabelecer um ambiente seguro e ético, onde as apostas não envolvem dinheiro real e
+promovem a diversão entre amigos.
+
+* Justificativa
+As apostas sociais são uma tendência crescente, onde a gamificação transforma o simples
+ato de aposta em uma experiência social, focada na diversão e no engajamento dos
+usuários. Ao contrário das apostas convencionais, o BetFriends promove uma experiência
+lúdica, eliminando riscos financeiros e focando-se em criar um ambiente interativo.
+
+2. Descrição Geral
+
+* Visão Geral da Plataforma
+
+O BetFriends é estruturado para permitir que os usuários façam apostas em eventos
+predefinidos ou personalizados, utilizando créditos virtuais como forma de pontuação. Com
+uma interface amigável e intuitiva, os usuários podem acessar a plataforma através de
+navegadores e, futuramente, de dispositivos móveis.
+
+* Público-Alvo
+Jovens e adultos interessados em apostas como forma de entretenimento, que buscam
+interação social e competição saudável.
+
+* Estrutura da Plataforma
+
+A plataforma será composta pelas seguintes seções e funcionalidades principais:
+
+-Registro e Perfis de Usuário
+-Sistema de Pontos Virtuais
+-Tipos de Apostas
+-Sistema de Conquistas e Troféus
+-Ranking e Competições
+-Gamificação e Interatividade
+
+3. Funcionalidades Detalhadas
+
+3.1 Sistema de Registro e Perfis de Usuário
+
+O sistema de registro permite que o usuário crie uma conta com e-mail ou conecte-se via
+redes sociais (ex.: Google, Facebook), facilitando o acesso e aumentando a segurança.
+
+Cada usuário possui um perfil pessoal, que inclui:
+-Histórico de Apostas: Registro completo das apostas realizadas e seus resultados.
+-Pontos Acumulados: Quantidade de créditos virtuais que o usuário possui.
+-Troféus Conquistados: Lista de conquistas e troféus, que representam o progresso do
+usuário.
+
+3.2 Sistema de Pontos Virtuais
+
+O sistema de pontos é a base para a economia interna da plataforma, operando da seguinte
+forma:
+-Saldo Inicial: Todos os usuários recebem um saldo inicial de créditos, que podem utilizar
+para realizar apostas.
+-Apostas e Pontuações: Os créditos são apostados em eventos, com ganhos e perdas de
+acordo com os resultados.
+-Recarga de Créditos: Para evitar que o saldo de créditos se esgote rapidamente, cada
+usuário recebe uma recarga de 100 créditos a cada 24 horas, garantindo a continuidade do
+jogo e um nível básico de competitividade entre todos os participantes.
+
+3.3 Tipos de Apostas Simples
+
+O BetFriends oferece uma variedade de opções de apostas para diversificar a experiência:
+Esportes Populares: Futebol, basquete e esportes fictícios, com eventos como “Qual time
+vencerá?” ou “Quantos pontos o jogador X marcará?”.
+
+-Eventos Gerais: Apostas em eventos de interesse geral, como premiações (ex.: Oscars) ou
+situações hipotéticas do cotidiano.
+-Customizadas entre Amigos: Apostas que podem ser criadas pelos próprios usuários para
+competir com amigos, com perguntas personalizadas.
+
+3.4 Sistema de Conquistas e Troféus
+
+Para reforçar a sensação de progresso e motivação, o sistema de conquistas inclui:
+Conquistas Baseadas em Pontos: Troféus como “Primeira Aposta Vitoriosa” e “Primeiros
+1.000 Créditos Ganhos”.
+
+-Troféus e Medalhas: Recompensas para feitos específicos, como “Campeão do Mês” e
+“Maior Ganhador de Apostas de Futebol”.
+-Níveis de Usuário: À medida que o usuário acumula pontos, ele sobe de nível, o que pode
+desbloquear troféus exclusivos e novas oportunidades de aposta.
+
+3.5 Ranking e Competições
+
+Para promover a competitividade, o sistema de ranking conta com três níveis:
+Ranking Semanal e Mensal: Exibe os usuários com maior pontuação acumulada no
+período.
+
+-Ligas Privadas entre Amigos: Usuários podem criar ligas onde competem apenas com
+amigos, aumentando a interação e o entretenimento personalizado.
+-Ranking Global: Todos os usuários podem competir entre si, ampliando a competitividade.
+
+3.6 Gamificação e Interatividade
+
+-Missões e Desafios: Desafios diários e semanais incentivam a participação contínua (ex.:
+“Ganhe 3 apostas seguidas”).
+-Compartilhamento em Redes Sociais: Os usuários podem compartilhar suas conquistas e
+vitórias, promovendo a plataforma e engajando outros participantes.
+
+4. Tecnologias para Implementação
+
+Para garantir um desenvolvimento eficiente e uma experiência de usuário de qualidade, as
+tecnologias recomendadas incluem:
+
+-Frontend
+-Backend
+-Banco de Dados
+-Autenticação
+-Gamificação
+
+5. Considerações de Legalidade e Ética
+
+*Política de Uso Responsável
+A plataforma deixa claro que os créditos são apenas virtuais e que a finalidade é o
+entretenimento. O uso responsável é incentivado, garantindo que a plataforma não promova
+vícios ou comportamentos prejudiciais.
+
+*Isenção de Valor Monetário
+Os créditos virtuais não possuem valor monetário, eliminando riscos financeiros. Isso
+garante que a experiência seja meramente lúdica.
+
+6. Conclusão
+
+O BetFriends oferece uma proposta de apostas voltada para o entretenimento e a interação
+social. Ao utilizar créditos virtuais e elementos de gamificação, o projeto visa criar um
+ambiente de diversão acessível e seguro. Como um projeto acadêmico, ele explora as
+melhores práticas em design de interação e gamificação, aplicando conceitos de
+desenvolvimento ético e seguro
