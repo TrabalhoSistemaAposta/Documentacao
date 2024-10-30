@@ -1,0 +1,151 @@
+/* Estilos Globais */
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    background-color: #f8f2fc; /* Fundo lilás claro */
+    color: #4a3b61; /* Texto roxo escuro */
+}
+
+/* Cabeçalho */
+header {
+    background-color: #946db4; /* Lilás mais escuro */
+    color: #fff;
+    text-align: center;
+    padding: 2rem 0;
+}
+
+.logo-container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.logo {
+    width: 130px; /* Redimensiona a imagem para 30x30 */
+    height: 130px;
+    margin-right: 10px;
+    border-radius: 5px; /* Bordas arredondadas */
+}
+
+header h1 {
+    font-size: 2.5rem;
+    margin: 0;
+}
+
+header p {
+    font-size: 1.2rem;
+    margin-top: 0.5rem;
+}
+
+/* Seções */
+section {
+    padding: 2rem;
+}
+
+#explicacao {
+    background-color: #e6d4f1; /* Lilás suave */
+    text-align: center;
+}
+
+#explicacao h2 {
+    font-size: 2rem;
+}
+
+#explicacao p {
+    font-size: 1rem;
+    max-width: 800px;
+    margin: 0 auto;
+}
+
+/* Seção de Integrantes */
+#integrantes {
+    background-color: #f5e1ff; /* Lilás pastel */
+    text-align: center;
+}
+
+#integrantes h2 {
+    font-size: 2rem;
+    margin-bottom: 1.5rem;
+}
+
+.integrante {
+    display: inline-block;
+    margin: 1rem;
+    text-align: center;
+}
+
+.integrante img {
+    width: 120px; /* Ajuste de tamanho para as fotos dos integrantes */
+    height: 120px;
+    border-radius: 50%;
+    border: 3px solid #a17cb8; /* Roxo intermediário */
+}
+
+.integrante h3 {
+    margin: 0.5rem 0;
+    color: #5e3a7d; /* Roxo mais intenso */
+}
+
+.integrante a {
+    display: block;
+    margin-top: 0.5rem;
+    color: #4a3b61; /* Roxo escuro */
+    text-decoration: none;
+}
+
+.integrante a:hover {
+    color: #946db4; /* Lilás mais escuro */
+}
+
+/* Seção de Documentação */
+#documentacao {
+    background-color: #e9d5f9; /* Lilás mais claro */
+    text-align: center;
+}
+
+.documentacao-item {
+    display: inline-block;
+    margin: 1rem;
+}
+
+.documentacao-item img {
+    width: 280px; /* Ajuste para os prints de documentação */
+    height: 180px;
+    border: 2px solid #946db4; /* Lilás mais escuro */
+}
+
+.documentacao-item p {
+    margin-top: 0.5rem;
+    color: #5e3a7d; /* Roxo mais intenso */
+}
+
+/* Seção de Vídeo */
+#video {
+    background-color: #f5e1ff; /* Lilás pastel */
+    text-align: center;
+}
+
+#video h2 {
+    font-size: 2rem;
+}
+
+#video video {
+    width: 80%;
+    max-width: 600px;
+    margin-top: 1rem;
+    border: 3px solid #a17cb8; /* Roxo intermediário */
+}
+
+/* Rodapé */
+footer {
+    background-color: #946db4; /* Lilás mais escuro */
+    color: #fff;
+    text-align: center;
+    padding: 1rem 0;
+}
+
+footer p {
+    margin: 0;
+}
+
+
