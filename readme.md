@@ -24,7 +24,7 @@ O sistema permite que os usuários façam apostas em eventos como jogos esportiv
  
 ## 👥 Equipe de Desenvolvimento
  
-** Turma de Sistemas para Internet**:
+**Turma de Sistemas para Internet**:
  
 - Ana Laura
 - Julia Mazoti
